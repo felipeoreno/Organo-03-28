@@ -20,5 +20,35 @@ p{
     border-radius: 15px;
     height: 90%;
     box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.5);
+}
+
+.card1{
     background-image: linear-gradient(to top, white 60%, #5cb85c 40%);
+}
+
+.card2{
+    background-image: linear-gradient(to top, white 60%, #0275d8 40%);
+}
+
+.card3{
+    background-image: linear-gradient(to top, white 60%, #f0ad4e 40%);
+}
+
+.card4{
+    background-image: linear-gradient(to top, white 60%, #d9534f 40%);
+}
+
+.card5{
+    background-image: linear-gradient(to top, white 60%, #333 40%);
+}
+
+.card6{
+    background-image: linear-gradient(to top, white 60%, #5bc0de 40%);
+}
+
+footer{
+        background-image: url(../img/banner.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200px;
 }
